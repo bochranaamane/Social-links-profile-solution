@@ -50,5 +50,5 @@ Positionning using "position" and grid
 
 ## Author
 
-- Website - [bochranaamane](https://bochranaamane.github.io/Social-links-profile-solution/)
+- Website - [bochranaamane](https://bochranaamane.github.io/Social-links-profile-solution)
 - Frontend Mentor - [@bochranaamane](https://www.frontendmentor.io/profile/bochranaamane)
